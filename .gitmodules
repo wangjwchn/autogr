@@ -1,0 +1,12 @@
+[submodule "olisipo/VascoRepo"]
+	path = olisipo/VascoRepo
+	url = https://github.com/pandaworrior/VascoRepo
+[submodule "applications/input/oltpbench"]
+	path = applications/input/oltpbench
+	url = https://github.com/oltpbenchmark/oltpbench
+[submodule "applications/input/HealthPlus"]
+	path = applications/input/HealthPlus
+	url = https://github.com/heshanera/HealthPlus
+[submodule "collector/AutoGR-Translator"]
+	path = collector/AutoGR-Translator
+	url = https://github.com/ksqsf/AutoGR-Translator
